@@ -16,5 +16,5 @@ The python requires the following packages:
 ### Instructions
 1)  Main.ipynb: execute to obtain the results for the Cascaded Tanks System Real Benchmark
 2)  Main_MC.ipynb: execute to obtain the results for the Cascaded Tanks System Syntheticly Generated Dataset
-3)  Plotter.ipynb - Plotter_UnNormalized.ipynb - Histogramer.ipynb: execute to obtain the figures (available in the paper)
+3)  Plotter.ipynb - Plotter_UnNormalized.ipynb - Histogramer.ipynb: execute to obtain the figures
 4)  MCgenerator: execute to generate synthetic data for the Cascaded Tanks System
